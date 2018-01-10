@@ -1,0 +1,7 @@
+This is a sample data for testing Courier services program.
+
+copy files of this folder to inside the project, if you are working on eclipse.
+
+copy files inside bin folder of JDK if u are running it from commandline.
+
+read 'SampleData.png'
